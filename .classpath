@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/X12-V0.9.jar" sourcepath="S:/IT Department/Programming/Dependencies/X12-V0.9-src.jar"/>
+	<classpathentry kind="lib" path="S:/IT Department/Programming/Dependencies/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EnergyInfo">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="EnergyInfo/bin/com/bottinifuel/Energy/JDBC"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
